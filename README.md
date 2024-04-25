@@ -1,6 +1,6 @@
 # laravel-promocodes
 
-Coupons and promotional codes generator for [Laravel](https://laravel.com). This package requires [Laravel 9.x](https://laravel.com/docs/9.x) and [PHP 8.1](https://www.php.net/releases/8.1/en.php).
+Coupons and promotional codes generator for [Laravel](https://laravel.com). This package requires [Laravel 11.x](https://laravel.com/docs/11.x) and [PHP 8.1](https://www.php.net/releases/8.2/en.php).
 
 ## Installation
 
