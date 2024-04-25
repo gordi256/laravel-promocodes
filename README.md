@@ -7,7 +7,7 @@ Coupons and promotional codes generator for [Laravel](https://laravel.com). This
 You can install the package via composer:
 
 ```bash
-composer require nagsamayam/laravel-promocodes
+composer require gordi256/laravel-promocodes
 ```
 
 ## Configuration
