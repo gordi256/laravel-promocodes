@@ -4,12 +4,12 @@ declare(strict_types=1);
 
 namespace NagSamayam\Promocodes\Models;
 
-use App\Traits\HasMeta;
+// use App\Traits\HasMeta;
 use Illuminate\Database\Eloquent\Relations\Pivot;
 
 class PromocodeUser extends Pivot
 {
-    use HasMeta;
+    // use HasMeta;
 
     /**
      * Indicates if the IDs are auto-incrementing.
